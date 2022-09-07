@@ -52,3 +52,6 @@ that presents the largest and most detailed connectomic reconstruction of human 
 ## CodeConnects - Coding Tutor 
 ### 06/2020 – 09/2020 
 *	Tutored middle and high school students in Python. Covered topics varying from basic syntax to data structures and algorithms.
+
+
+
