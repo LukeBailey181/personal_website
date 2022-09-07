@@ -7,15 +7,16 @@
 I am currently pursuing a joint major in Computer Science
 and Mathematics at Harvard College. I came to university
 in the summer of 2019 but took a leave of absence to work 
-in the 2020 - 2021 school year so am currently a sophomore
+in the 2020 - 2021 school year so am currently a junior 
 student.
 
 ### Relevant Coursework 
 
 1. CS 50 - coding in C, Python and SQL 
 2. CS 124 - Data Structures and Algorithms
-3. CS 20 - Discrete Mathematics in Computer Science
-4. Currently taking CS 242 (graduate level) - Computing at Scale
+4. CS 242 (graduate level) - Computing at Scale
+5. CS 181 - machine learning 
+5. Currently taking CS 243 (graduate level) - Advanced networks
 
 ---
 
